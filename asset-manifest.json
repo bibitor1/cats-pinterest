@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cats-pinterest/static/css/main.c1cfc003.css",
+    "main.js": "/cats-pinterest/static/js/main.825c4ed8.js",
+    "static/media/icon-favorite.svg": "/cats-pinterest/static/media/icon-favorite.6adfe85f8b98c6dc6b44.svg",
+    "index.html": "/cats-pinterest/index.html",
+    "static/media/icon-favorite-active.svg": "/cats-pinterest/static/media/icon-favorite-active.6e844464e1e159f1f41b.svg",
+    "static/media/icon-favorite-hover.svg": "/cats-pinterest/static/media/icon-favorite-hover.8220379cb36244a7738b.svg",
+    "main.c1cfc003.css.map": "/cats-pinterest/static/css/main.c1cfc003.css.map",
+    "main.825c4ed8.js.map": "/cats-pinterest/static/js/main.825c4ed8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1cfc003.css",
+    "static/js/main.825c4ed8.js"
+  ]
+}
