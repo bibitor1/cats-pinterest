@@ -1,0 +1,32 @@
+.cats {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 60px;
+
+  @media (max-width: 767px) {
+    padding: 40px;
+  }
+}
+
+.cats__list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
+  gap: 45px;
+
+  @media (max-width: 1199px) {
+    gap: 30px;
+  }
+}
+
+.cats__message {
+  margin: 0;
+  margin-top: 50px;
+  text-align: center;
+  color: #2196F3;
+  font-size: 18px;
+  font-weight: bold;
+}
